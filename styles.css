@@ -185,3 +185,6 @@ a:focus-visible,button:focus-visible,summary:focus-visible,input:focus-visible{o
   .btn{width:100%;text-align:center;}
   .optin button{width:100%;}
 }
+
+/* fine print under opt-in button */
+.optin-fine{font-size:.75rem;color:#6B6B6B;margin:12px 0 0;}
