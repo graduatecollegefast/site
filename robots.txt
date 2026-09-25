@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://graduatecollegefast.com/sitemap.xml

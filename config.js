@@ -14,6 +14,7 @@ var GCF_LINKS = {
   degreePlan:   "https://graduatefasthack.com/shop/12MDPB",
   sprint:       "",   // 30-Day Jump Start Sprint - no direct link yet
   successCall:  "https://graduatefasthack.com/shop/collegesuccess",
+  customBlueprint: "https://graduatefasthack.com/shop/CourseBlueprint",
   book:         "",   // $5,000 Degree Blueprint Book - no direct link yet
   aiVault:      "https://graduatefasthack.com/shop/ScholarAIVault",
 
@@ -44,6 +45,7 @@ var GCF_LINKS = {
       degreePlan: GCF_LINKS.degreePlan || GCF_LINKS.beacons,
       sprint: GCF_LINKS.sprint || GCF_LINKS.beacons,
       successCall: GCF_LINKS.successCall || GCF_LINKS.beacons,
+      customBlueprint: GCF_LINKS.customBlueprint || GCF_LINKS.beacons,
       book: GCF_LINKS.book || GCF_LINKS.beacons,
       aiVault: GCF_LINKS.aiVault || GCF_LINKS.beacons,
       tiktok: GCF_LINKS.tiktok,

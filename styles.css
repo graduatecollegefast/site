@@ -188,3 +188,14 @@ a:focus-visible,button:focus-visible,summary:focus-visible,input:focus-visible{o
 
 /* fine print under opt-in button */
 .optin-fine{font-size:.75rem;color:#6B6B6B;margin:12px 0 0;}
+
+/* ---------- guides ---------- */
+.guide{max-width:40em;}
+.guide h2{font-size:clamp(1.3rem,2.6vw,1.6rem);margin-top:1.8em;}
+.guide h2:first-child{margin-top:0;}
+.guide ol,.guide ul{padding-left:22px;margin:0 0 1rem;}
+.guide li{margin-bottom:8px;}
+.guide-card{display:block;text-decoration:none;color:var(--charcoal);border-top:10px solid var(--orange);}
+.guide-card h3{color:var(--black);}
+.guide-card:hover h3{color:var(--orange);}
+.guide-card:focus-visible{outline:3px solid var(--orange);outline-offset:3px;}
